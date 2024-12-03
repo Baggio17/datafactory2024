@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Prepzeenov1"
+		},
+		"baggio1stworkspace2024_accountKey": {
+			"value": ""
+		},
+		"baggio1stworkspace_connectionString": {
+			"value": ""
+		},
+		"baggio1stworkspace2024_properties_typeProperties_url": {
+			"value": "https://baggio1stdatalake.dfs.core.windows.net/"
+		}
+	}
+}
